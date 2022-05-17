@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad KAshif</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Kashif</h1>
 <h3 align="center">I am full stack developer and build engineer with 13 years of experience in diverse technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifchishti82&label=Profile%20views&color=0e75b6&style=flat" alt="kashifchishti82" /> </p>
