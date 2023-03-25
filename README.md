@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I am huge fan of Destiny2 and Halo**
 
+- <a href="https://gist.github.com/kashifchishti82">GIST</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
